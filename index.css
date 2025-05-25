@@ -1,0 +1,409 @@
+.download-1-icon {
+  	position: absolute;
+  	top: 258px;
+  	left: -3px;
+    bottom: 0px;
+  	width: 378.8px;
+  	height: 569px;
+  	object-fit: cover;
+  	mix-blend-mode: darken;
+}
+.lokasi {
+  	position: absolute;
+  	top: 0px;
+  	left: 42px;
+  	font-size: 15px;
+}
+.qris {
+  	position: absolute;
+  	top: 241px;
+  	left: 54px;
+  	text-align: center;
+}
+.no-rekening {
+position: absolute;
+top: 490px;
+left: 26px;
+font-size: 10px;
+font-family: Montaga;
+text-align: center;
+color: #f2e0c1;
+}
+.bri {
+position: absolute;
+top: 458px;
+left: 54px;
+font-size: 14px;
+font-family:IM FELL Double Pica SC;
+text-align: center;
+}
+.dusun-ngelak-desa {
+  	margin: 0;
+}
+.dusun-ngelak-desa-container {
+  	position: absolute;
+  	top: 190px;
+  	left: 10px;
+  	font-size: 8px;
+  	font-family: Montaga;
+  	color: #f2e0c1;
+  	text-align: center;
+}
+.group-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 20px;
+  	background-color: rgba(225, 215, 193, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 123px;
+  	height: 39px;
+}
+.rectangle-parent {
+  	position: absolute;
+  	top: 444px;
+  	left: 10px;
+  	width: 123px;
+  	height: 39px;
+  	cursor: pointer;
+  	color: #f2e0c1;
+  	font-family: Montaga;
+}
+.image-1-icon {
+  	position: absolute;
+  	top: 281px;
+  	left: 1px;
+  	border-radius: 10px;
+  	width: 140px;
+  	height: 141px;
+  	object-fit: cover;
+}
+.whatsapp-image-2025-05-24-at-2 {
+  	position: absolute;
+  	top: 41px;
+  	left: 0px;
+  	border-radius: 10px;
+  	width: 140.1px;
+  	height: 142px;
+  	object-fit: cover;
+}
+.lokasi-parent {
+  	position: absolute;
+  	top: 72px;
+  	left: 118px;
+  	width: 141px;
+  	height: 483px;
+}
+.rsvp-page-inner {
+    width: 100%;
+  	height: 100%;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 376px;
+  	height: 812px;
+  	overflow-y: auto;
+    overflow: hidden;
+}
+.download-1-1 {
+  	position: absolute;
+  	top: 0.01px;
+  	left: 0px;
+  	width: 139.1px;
+  	height: 104.5px;
+  	object-fit: contain;
+  	mix-blend-mode: lighten;
+}
+.download-1-2 {
+  	position: absolute;
+  	top: 0.01px;
+  	left: 127px;
+  	width: 139.1px;
+  	height: 104.5px;
+  	object-fit: contain;
+  	mix-blend-mode: lighten;
+}
+.download-1-3 {
+  	position: absolute;
+  	top: 0px;
+  	left: 254.87px;
+  	width: 139.1px;
+  	height: 104.5px;
+  	object-fit: contain;
+  	mix-blend-mode: lighten;
+}
+.download-1-1-parent {
+  	position: absolute;
+  	top: -24px;
+  	left: -8px;
+  	width: 394px;
+  	height: 104.5px;
+}
+.rsvp-page {
+    
+  	position: absolute;
+  	top: 813px;
+  	left: 0px;
+  	background-color: #581414;
+  	width: 374px;
+  	height: 842px;
+  	overflow-y: auto;
+    overflow: hidden;
+}
+.artboard-1-1-1 {
+  	position: absolute;
+  	top: -5px;
+  	left: 0px;
+  	width: 100%;
+  	height: 818px;
+  	object-fit: cover;
+
+}
+.satu-hari-satu-container {
+  	position: absolute;
+  	top: calc(50% - 129.5px);
+  	left: calc(50% - 98.5px);
+  	font-family: 'Crimson Text';
+  	color: #581414;
+}
+.dengan-rasa-syukur {
+  	position: absolute;
+  	top: calc(50% + 48.5px);
+  	left: calc(50% - 136.5px);
+  	font-family: 'Crimson Text';
+  	color: #581414;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 273px;
+}
+.basmalah-1-icon {
+  	position: absolute;
+  	top: calc(50% - 174.5px);
+  	left: calc(50% - 110.5px);
+  	width: 210px;
+  	height: 32px;
+  	object-fit: cover;
+  	mix-blend-mode: multiply;
+}
+.arul {
+  	position: absolute;
+  	top: calc(50% - 7.5px);
+  	left: calc(50% - 53.86px);
+  	display: inline-block;
+  	width: 60.3px;
+  	height: 52px;
+}
+.h {
+  	position: absolute;
+  	top: calc(50% - 31.5px);
+  	left: calc(50% - 128px);
+  	font-size: 65px;
+  	font-family: 'Mea Culpa';
+  	display: inline-block;
+  	width: 74.1px;
+  	height: 75px;
+}
+.div {
+  	position: absolute;
+  	top: calc(50% - 7.5px);
+  	left: calc(50% - 7.39px);
+  	font-size: 36px;
+  	font-family: 'Luxurious Script';
+  	display: inline-block;
+  	width: 22.7px;
+  	height: 45px;
+}
+.tika {
+  	position: absolute;
+  	top: calc(50% - 7.5px);
+  	left: calc(50% + 94px);
+  	display: inline-block;
+  	width: 34px;
+}
+.a {
+  	position: absolute;
+  	top: calc(50% - 36.5px);
+  	left: calc(50% + 34.13px);
+  	font-size: 65px;
+  	font-family: 'Mea Culpa';
+  	display: inline-block;
+  	width: 59.3px;
+}
+.pernikahan-kami {
+  	position: absolute;
+  	top: calc(50% - 54.5px);
+  	left: calc(50% - 73px);
+  	font-size: 12px;
+  	font-family: 'IM FELL Double Pica SC';
+  	text-align: center;
+  	display: inline-block;
+  	width: 147px;
+  	height: 28px;
+}
+.arul-parent {
+  	position: absolute;
+  	top: calc(50% - 73.5px);
+  	left: calc(50% - 128.5px);
+  	width: 256px;
+  	height: 109px;
+  	text-align: left;
+  	font-size: 32px;
+  	color: #581414;
+  	font-family: 'Love Light';
+}
+.juni-2025 {
+  	position: absolute;
+  	top: calc(50% - 13px);
+  	left: calc(50% - 55px);
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 109px;
+  	height: 26px;
+}
+.group-item {
+  	position: absolute;
+  	top: calc(50% - 13px);
+  	left: calc(50% - 55px);
+  	background-color: #660014;
+  	border-top: 1px solid #581414;
+  	box-sizing: border-box;
+  	width: 111px;
+  	height: 1px;
+}
+.group-inner {
+  	position: absolute;
+  	top: calc(50% + 13px);
+  	left: calc(50% - 55px);
+  	background-color: #660014;
+  	border-top: 1px solid #581414;
+  	box-sizing: border-box;
+  	width: 111px;
+  	height: 1px;
+}
+.juni-2025-parent {
+  	position: absolute;
+  	top: calc(50% + 101.5px);
+  	left: calc(50% + 25.5px);
+  	width: 110px;
+  	height: 26px;
+  	font-size: 12px;
+}
+.rabu {
+  	position: absolute;
+  	top: calc(50% - 13px);
+  	left: calc(50% - 37px);
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 69px;
+  	height: 26px;
+}
+.rabu-parent {
+  	position: absolute;
+  	top: calc(50% + 101.5px);
+  	left: calc(50% - 135.5px);
+  	width: 110px;
+  	height: 26px;
+  	font-size: 12px;
+}
+.div1 {
+  	position: absolute;
+  	top: calc(50% + 107.5px);
+  	left: calc(50% - 14.5px);
+  	font-size: 20px;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	width: 26px;
+  	height: 14px;
+}
+.dusun-ngelak-desa-container1 {
+  	position: absolute;
+  	top: calc(50% + 154.5px);
+  	left: calc(50% - 136.5px);
+  	font-size: 8px;
+  	display: inline-block;
+  	width: 271px;
+}
+.satu-hari-satu-janji-di-bawa-parent {
+  	position: absolute;
+  	top: calc(50% - 327.5px);
+  	left: calc(50% - 135.5px);
+  	width: 273px;
+  	height: 349px;
+}
+.page-1 {
+    width: 100%;
+    height: 100%;
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 374px;
+  	height: 842px;
+  	overflow-y: hidden;
+    overflow-x: hidden;
+  	text-align: center;
+  	font-size: 10px;
+  	color: #660014;
+  	font-family: Montaga;
+}
+.main-content {
+
+    width: 100%;
+  	height: 100%;
+  	position: relative;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #581414;
+  	overflow-x: hidden;
+  	overflow-y: hidden;
+}
+.invitation-page {
+  	width: 100%;
+  	position: relative;
+  	height: 1626px;
+  	overflow-y: hidden;
+    overflow-y: hidden;
+  	text-align: left;
+  	font-size: 14px;
+  	color: #fff;
+  	font-family: 'IM FELL Double Pica SC';
+}
+
+.layout-wrapper {
+  width: 375px;
+  margin: 0 auto;
+  position: relative;
+  background-color: #581414;
+  overflow: hidden;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #581414;
+}
+.footer {
+  	position: relative;
+  	bottom: 0px;
+  	left: 0px;
+  	width: 100%;
+	background-color: black;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	font-size: 6px;
+  	font-family: Montaga;
+	text-align: center;
+	color: #fcfcfc;
+}
+@media (min-width: 768px) {
+  .layout-wrapper {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-radius: 10px;
+  }
+}
+
