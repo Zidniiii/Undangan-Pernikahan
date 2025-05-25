@@ -374,6 +374,7 @@ text-align: center;
 }
 
 .layout-wrapper {
+	width: 100%;
   width: 375px;
   margin: 0 auto;
   position: relative;
